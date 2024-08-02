@@ -1124,13 +1124,14 @@
                 homepage: "https://amanuel.io/projects/BoneOS/",
                             {
                 id: "bluejay",
-                name: "Blue Jay",
                 fda: {
                     url: host + "bj050.img",
-                    size: 11429888,
+                    size: 1440 * 1024,
                     async: false,
                 },
-                homepage: "https://archiveos.org/blue-jay/",
+                name: "Blue jay",
+                homepage: "https://programatica.cs.pdx.edu/House/",
+            },
             },
         ];
 
